@@ -1,0 +1,39 @@
+  
+  
+  .card {
+    border: 0px;
+  }
+  
+  .card > .img-container {
+    margin-bottom: 20px;
+  }
+  
+  
+  .card > .img-container > img {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+
+  }
+
+  .img {
+    border-radius: 2px;
+    margin: 5px;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  }
+
+  .img:hover {
+    box-shadow: 0 3px 6px rgb(71, 0, 0), 0 3px 6px rgb(71, 0, 0);
+
+  }
+  
+  @media screen and (max-width: 746px){
+    .card > .img-container > img {
+      width: 150px;
+      height: 150px;
+      margin: 0 auto;
+  
+    }
+  }
+
+  

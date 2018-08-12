@@ -1,0 +1,85 @@
+[
+        {
+            "id": 1,
+            "name": "Captain America",
+            "image": "./assets/images/captainamerica.png",
+            "clicked": false
+        },
+
+        {
+            "id": 2,
+            "name": "Doctor Strange",
+            "image": "./assets/images/drstrange.png",
+            "clicked": false
+        },
+
+        {
+            "id": 3,
+            "name": "Iron Fist",
+            "image": "./assets/images/fist.png",
+            "clicked": false  
+        },
+
+        {
+            "id": 4,
+            "name": "Gambit",
+            "image": "./assets/images/gambit.png",
+            "clicked": false  
+        },
+
+        {
+            "id": 5,
+            "name": "Ghost Rider",
+            "image": "./assets/images/ghostrider.png",
+            "clicked": false  
+        },
+
+        {
+            "id": 6,
+            "name": "Magneto",
+            "image": "./assets/images/magneto.png",
+            "clicked": false  
+        },
+
+        {
+            "id": 7,
+            "name": "Pheonix",
+            "image": "./assets/images/pheonix.png",
+            "clicked": false  
+        },
+
+        {
+            "id": 8,
+            "name": "She-Hulk",
+            "image": "./assets/images/shehulk.png",
+            "clicked": false  
+        },
+
+        {
+            "id": 9,
+            "name": "Spiderman",
+            "image": "./assets/images/spiderman.png",
+            "clicked": false  
+        },
+
+        {
+            "id": 10,
+            "name": "Thor",
+            "image": "./assets/images/thor.png",
+            "clicked": false  
+        },
+
+        {
+            "id": 11,
+            "name": "Wolverine",
+            "image": "./assets/images/wolverine.png",
+            "clicked": false  
+        },
+
+        {
+            "id": 12,
+            "name": "Deadpool",
+            "image": "./assets/images/deadpool.png",
+            "clicked": false  
+        }
+]
